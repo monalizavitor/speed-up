@@ -1,7 +1,11 @@
 # SpeedUp 
 
-## **SpeedUp** é uma extensão para o Google Chrome que acelera o áudios do Whatsapp.  
+É uma extensão para o Google Chrome, uma simples ferramenta para otimizar seu tempo e facilitar seu cotidiano. 
 
-Basta apertar o botão '2x' no lado direito do header do Whatsapp web e ouvir seus áudios 2x mais rápido.
+## Como usar?
+
+- Basta clonar o projeto na sua máquina;
+- Copiar ``chrome://extensions`` na barra do navegador Google Chrome e arrastar a pasta do projeto para dentro da página;  
+- Agora é só abrir o Whatsapp Web e apertar o botão **2x** no lado direito do header para ouvir seus áudios duas vezes mais rápido.
 
 ![imag](img.jpeg)
